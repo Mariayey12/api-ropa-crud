@@ -5,21 +5,24 @@
         "nombre-product": "Vestido",
         "categoria": "Dama",
         "color": "Blanco",
-        "precio":"$ 34.678"
+        "precio":"$ 34.678",
+        "imagen":""
       },
       {
         "id": 2,
         "nombre-product": "Zapatos",
         "categoria": "Caballero",
         "color": "Negro",
-        "precio":"$70.989"
+        "precio":"$70.989",
+        "imagen":""
       },
       {
          "id": 3,
         "nombre-product": "Sudadera con capucha",
         "categoria": "Niña",
         "color": "Blanca",
-        "precio":"68.9$"
+        "precio":"68.9$",
+        "imagen":""
       }
     ]
 }
